@@ -1,0 +1,6 @@
+[
+    {
+        "keys": ["ctrl+super+c"],
+        "command": "color_hint_toggle"
+    }
+]
